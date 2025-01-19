@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Rafeeque V P </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*D7Zpqwm2nSQ7uWL5ovh-XQ.gif"></img>
+<img align="right" alt="Coding" width="400"  src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif"></img>
 
 
 
